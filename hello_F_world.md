@@ -5,8 +5,8 @@ Hello world!
 **HalfBold**
 
 * Element 1
-*Element 2
-*Element 3
+* Element 2
+* Element 3
 
 Начинаем знакомство с контролем версий
 
